@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Playwrite+NZ+Basic:wght@100..400&display=swap');
+
 :root{
     --amarelo: #ffee32ff;
     --amarelo: #ffd100ff;
     --preto: #202020ff;
     --cinza: #4d4d4dff;
+    --texto: "Fjalla One", sans-serif;
+    --titulo:  "Playwrite NZ Basic", cursive;
+}
+
+body{
+    background-color: var(--cinza);
 }
