@@ -24,3 +24,18 @@ header{
 .capa{
     width: 100%;
 }
+.caixa-conteudo{
+margin: 20px;
+border: 2px;
+padding: 20px;
+text-align: center;
+}
+.conteudo-titulo{
+    font-family: var(--titulo);
+    font-size: 32px;
+    color: var(--amarelo);
+}
+.conteudo-texto{
+    margin:40px 0;
+    font-family: var(--texto);
+}
